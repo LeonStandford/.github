@@ -1,8 +1,6 @@
 ## Hi there 👋
-<p align="center">
-  <img alt="Pham Minh Long — AI Solutions Architect, Research Scientist at ACM Lab, NYCU" src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=800&lines=%F0%9F%8C%88Hey+there%21+I%27m+Pham+Minh+Long;%E2%9C%A8+AI+Solutions+Architect+%E2%9C%A8;Research+Scientist+%40+ACM+Lab%2C+NYCU;Welcome+to+Co-working+Space%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%21" />
-</p>
 
+![Title](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=800&lines=🌈Hey+there!+I'm+Pham+Minh+Long;✨+AI+Solutions+Architect+✨;Research+Scientist+%40+ACM+Lab%2C+NYCU;Welcome+to+Co-working+Space👩‍💻!)
 <!--
 
 **Here are some ideas to get you started:**
